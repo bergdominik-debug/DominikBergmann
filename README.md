@@ -4,7 +4,7 @@ I’m an aspiring data analyst. I’m learning fundamental skills at CodersLab a
 
 ## My skills
 ---
-What am I learning now?
+What I am learning now?
 
 ### Programming Languages
 Python

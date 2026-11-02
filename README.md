@@ -8,12 +8,15 @@ What I am learning now?
 
 ### Programming Languages
 Python
+
 ### Libraries and Frameworks
 Pandas  Selenium
+
 ### Infrastucture
 
 ### Databeses
 SQL
+
 ### Tools
 Windows  Visual Code Studio  Github  DataGrip
 

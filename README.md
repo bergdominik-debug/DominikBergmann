@@ -1,23 +1,46 @@
-# Hi Folks, I'm Dominik Bergmann
+# Hi, I'm Dominik Bergmann
+I'm a developing data analyst with a strong interest in data quality, machine learning, NLP, and analytical problem solving.
+I enjoy working on end-to-end projects where data must be collected, validated, transformed, analysed, and ultimately used to support decision making.
 
-I’m an aspiring data analyst. I’m learning fundamental skills at CodersLab and I enjoy working on side projects to practice what I’ve learned.
+Recently, I completed a Data Science programme at CodersLab and developed a machine learning project focused on the automatic classification of Czech EU-related news articles.
 
-## My skills
+## Technologies
+###Programming
+- Python
+- SQL
 
-What I am learning now?
+### Data Analysis
+- Pandas
+- NumPy
+- Data Visualization
 
-### Programming Languages
-Python
+### Machine Learning
+- Scikit-learn
+- NLP
+- TF-IDF
+- Word2Vec
+- CZERT
 
-### Libraries and Frameworks
-Pandas  Selenium
-
-### Infrastucture
-
-### Databeses
-SQL
+### Data Collection
+- Selenium
+- Web Scraping
 
 ### Tools
-Windows  Visual Code Studio  Github  DataGrip
+- Git
+- GitHub
+- VS Code
+- DataGrip
 
-##Let's Connect
+## What Interests Me
+- Data Analytics
+- Data Quality & Auditing
+- Natural Language Processing
+- Machine Learning
+- Automation
+- Knowledge Discovery
+
+## Featured Project
+📌 Czech-EU-News-Classification
+An end-to-end NLP pipeline including web scraping, taxonomy mapping, machine learning classification, and corpus-wide analysis of Czech EU-related news.
+
+## Let's Connect

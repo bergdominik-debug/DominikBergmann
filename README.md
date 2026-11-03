@@ -44,3 +44,4 @@ Recently, I completed a Data Science programme at CodersLab and developed a mach
 An end-to-end NLP pipeline including web scraping, taxonomy mapping, machine learning classification, and corpus-wide analysis of Czech EU-related news.
 
 ## Let's Connect
+- LinkedIn: [Dominik Bergmann](https://www.linkedin.com/in/dominik-bergmann-18b908264/)
